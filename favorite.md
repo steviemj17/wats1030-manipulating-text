@@ -1,1 +1,0 @@
-My preferred text editor is Nano because compared to the other two text editors, it's more straightforward. For the average user and novice programmer, the nano commands make it easier to complete tasks. Emacs and vi have more capabilities, but how to use the command line is way more complex, especially is you are new to programming. 
